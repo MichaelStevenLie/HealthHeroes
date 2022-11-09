@@ -2,7 +2,6 @@ class DataVolunteer {
     constructor (id, email, password, nama, kota_kelahiran, tanggal_lahir, 
         gender, alamat_rumah, kota, no_hp, email, nik, no_kk) {
     
-        super(id, email, password);
         this.nama = nama;
         this.kota_kelahiran = kota_kelahiran;
         this.tanggal_lahir = tanggal_lahir;
