@@ -22,6 +22,14 @@ class DataVolunteer {
         console.log( 'can delete Event');
     }
 
+    getDataVolunteer() {
+        console.log( 'can get Data Volunteer');
+    }
+    
+    findVolunteer() {
+        console.log( 'can find Volunteer');
+    }
+    
     inputEvent() {
         console.log( 'can input Event');
     }
